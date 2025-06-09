@@ -1,0 +1,5 @@
+packages:
+  - '.'
+  # Uncomment these if you decide to use a monorepo structure in the future
+  # - 'packages/*'
+  # - 'apps/*'
